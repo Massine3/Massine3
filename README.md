@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Massine3
-- 👀 I’m interested in ... numérique et nouvelles technologies
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 bonjour, je m'appelle Massine
+- 👀 je m'intéresse à tout ce qui est numérique et nouvelles technologies;
+- 🌱 je travail actuellement sur l'analyse et valorisation des usages numériques
+- 💞️ I’m looking to collaborate on l'ubérisation
 - 📫 How to reach me... massinidjeri@gmail.com
 
 <!---
